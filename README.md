@@ -1,5 +1,5 @@
-#Alec's React Boilerplate
+# Alec's React Boilerplate
 
-#Instructions
+# Instructions
 'npm install'
 'npm start'
