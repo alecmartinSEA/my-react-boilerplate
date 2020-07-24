@@ -1,5 +1,6 @@
-# Alec's React Boilerplate
+#Alec's React Boilerplate
 
-# Instructions
+##Instructions
 'npm install'
-'npm start'
+'npm start' will start the devleopment server
+'npm run build' will deploy your proudction app
